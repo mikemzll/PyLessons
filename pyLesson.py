@@ -13,5 +13,9 @@
 # num = 3
 # print('Holla' * num) #множення строки на число
 
-num = int(4 * '2')
-print( num + 1 )
+# num = int(4 * '2')
+# print( num + 1 ) #множення строки на число
+
+# num = 10
+# del num
+# print(num) #видалення змінної
