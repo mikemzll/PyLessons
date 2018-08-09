@@ -7,5 +7,11 @@
 # num = 20
 # print( num // 6) #частин
 
-num = 7
-print( num % (5//2) )  #ділення по модулю
+# num = 7
+# print( num % (5//2) ) #ділення по модулю
+
+# num = 3
+# print('Holla' * num) #множення строки на число
+
+num = int(4 * '2')
+print( num + 1 )
