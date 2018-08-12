@@ -19,3 +19,13 @@
 # num = 10
 # del num
 # print(num) #видалення змінної
+
+# num = 10
+# print(num == 10) #true
+
+num = 14
+if num == 11 :
+      print("you're right")
+elif num == 10 :
+      print("you're still right")
+else: print("you're wrong") #if else elif
